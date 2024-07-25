@@ -13,62 +13,127 @@
 
 
 <div id="midYearFares" class=" container mx-auto mt-8 text-center">
-    <h2 class=" text-h2-md text-primary font-heading  ">
-        <strong>¡Llegaron los mejores descuentos de medio año!<br> Aprovéchalos en <span class="text-secondary">copa.com</span>
-        </strong>
+
+    <h2 class=" text-h2-md text-primary font-heading mt-4  ">
+        <strong>Selecciona tu origen</strong>
+
+        <div class="!container !grid !grid-cols-1 md:!grid-cols-3 !auto-rows-auto !gap-16 !m-auto !mt-8 !mb-64 ">
+
+            
+
+            <div class="!grid !row-span-3 !grid-rows-subgrid !border !border-solid !border-grey-300 !bg-grey-0 !rounded-2xl !overflow-hidden">
+                <div class="!w-full !h-[180px] !relative !overflow-hidden">
+                    <img
+                        class="w-full h-full top-1/2 -left-1/2 -translate-y-1/2 translate-x-1/2 absolute "
+                        src="https://www.copaair.com/promotions/airtrafix-pics/PTY-1.jpg"
+                        alt="Panamá"
+                    />
+                </div>
+        
+                <div class="!px-24 ">
+                    <h3 class=" !font-heading !font-heading-bold !text-primary !mb-8">Panamá</h3>
+                </div>
+        
+                <div class="!px-24 mb-4">
+                    <p class=" !text-body-2 !text-grey-600 "> <a class=" !font-heading-medium !text-primary !no-underline hover:!underline" href="https://destinationsguide.copaair.com/es-pa/copa-mid-year-deals">Ver tarifas</a></p>
+                </div>
+            </div>
+
+            <div class="!grid !row-span-3 !grid-rows-subgrid !border !border-solid !border-grey-300 !bg-grey-0 !rounded-2xl !overflow-hidden">
+                <div class="!w-full !h-[180px] !relative !overflow-hidden">
+                    <img
+                        class="w-full h-full top-1/2 -left-1/2 -translate-y-1/2 translate-x-1/2 absolute "
+                        src="https://www.copaair.com/promotions/airtrafix-pics/BOG.jpg"
+                        alt="Colombia, Bogotá"
+                    />
+                </div>
+        
+                <div class="!px-24 ">
+                    <h3 class=" !font-heading !font-heading-bold !text-primary !mb-8">Colombia</h3>
+                </div>
+        
+                <div class="!px-24 mb-4">
+                    <p class=" !text-body-2 !text-grey-600 "> <a class=" !font-heading-medium !text-primary !no-underline hover:!underline" href="https://destinationsguide.copaair.com/es-co/copa-mid-year-deals">Ver tarifas</a></p>
+                </div>
+            </div>
+
+            <div class="!grid !row-span-3 !grid-rows-subgrid !border !border-solid !border-grey-300 !bg-grey-0 !rounded-2xl !overflow-hidden">
+                <div class="!w-full !h-[180px] !relative !overflow-hidden">
+                    <img
+                        class="w-full h-full top-1/2 -left-1/2 -translate-y-1/2 translate-x-1/2 absolute "
+                        src="https://www.copaair.com/promotions/airtrafix-pics/MEX.jpg"
+                        alt="Raleigh-Durham"
+                    />
+                </div>
+        
+                <div class="!px-24 ">
+                    <h3 class=" !font-heading !font-heading-bold !text-primary !mb-8">Ciudad de México, México</h3>
+                </div>
+        
+                <div class="!px-24 !mb-24">
+                    <p class=" !text-body-2 !text-grey-600 "> <a class=" !font-heading-medium !text-primary !no-underline hover:!underline" href="https://destinationsguide.copaair.com/es-mx/copa-mid-year-deals">Ver tarifas</a></p>
+                </div>
+            </div>
+            
+            <div class="!grid !row-span-3 !grid-rows-subgrid !border !border-solid !border-grey-300 !bg-grey-0 !rounded-2xl !overflow-hidden">
+                <div class="!w-full !h-[180px] !relative !overflow-hidden">
+                    <img
+                        class="w-full h-full top-1/2 -left-1/2 -translate-y-1/2 translate-x-1/2 absolute "
+                        src="https://www.copaair.com/promotions/airtrafix-pics/SCL.jpg"
+                        alt="Santiago de Chile"
+                    />
+                </div>
+        
+                <div class="!px-24 ">
+                    <h3 class=" !font-heading !font-heading-bold !text-primary !mb-8">Santiago de Chile, Chile</h3>
+                </div>
+        
+                <div class="!px-24 mb-4">
+                    <p class=" !text-body-2 !text-grey-600 "> <a class=" !font-heading-medium !text-primary !no-underline hover:!underline" href="https://destinationsguide.copaair.com/es-cl/copa-mid-year-deals">Ver tarifas</a></p>
+                </div>
+            </div>
+ 
+            <div class="!grid !row-span-3 !grid-rows-subgrid !border !border-solid !border-grey-300 !bg-grey-0 !rounded-2xl !overflow-hidden">
+                <div class="!w-full !h-[180px] !relative !overflow-hidden">
+                    <img
+                        class="w-full h-full top-1/2 -left-1/2 -translate-y-1/2 translate-x-1/2 absolute "
+                        src="https://www.copaair.com/promotions/airtrafix-pics/SJO.jpg"
+                        alt="San José"
+                    />
+                </div>
+        
+                <div class="!px-24 ">
+                    <h3 class=" !font-heading !font-heading-bold !text-primary !mb-8">San José, Costa Rica</h3>
+                </div>
+        
+                <div class="!px-24 mb-4">
+                    <p class=" !text-body-2 !text-grey-600 "> <a class=" !font-heading-medium !text-primary !no-underline hover:!underline" href="https://destinationsguide.copaair.com/es-cr/copa-mid-year-deals">Ver tarifas</a></p>
+                </div>
+            </div>
+            <div class="!grid !row-span-3 !grid-rows-subgrid !border !border-solid !border-grey-300 !bg-grey-0 !rounded-2xl !overflow-hidden">
+                <div class="!w-full !h-[180px] !relative !overflow-hidden">
+                    <img
+                        class="w-full h-full top-1/2 -left-1/2 -translate-y-1/2 translate-x-1/2 absolute "
+                        src="https://www.copaair.com/promotions/airtrafix-pics/UIO.jpg"
+                        alt="Global"
+                    />
+                </div>
+        
+                <div class="!px-24">
+                    <h3 class=" !font-heading !font-heading-bold !text-primary !mb-8">Otros paises</h3>
+                </div>
+        
+                <div class="!px-24 mb-4 ">
+                    <p class=" !text-body-2 !text-grey-600 "> <a class=" !font-heading-medium !text-primary !no-underline hover:!underline" href="https://destinationsguide.copaair.com/es/copa-mid-year-deals">Ver tarifas</a></p>
+                </div>
+            </div>
+           
+        </div>
+        
     </h2>
-    <div>
+
 
    
-        <h3 class="text-center text-h3 text-grey-700 font-heading-normal mt-4 font-heading">Disfruta estas
-            ofertas hasta el
-            <br><span class=" text-center text-h3 text-primary-light font-heading-bold font-heading">9 de de agosto del 2024</span>
-        </h3>
-
-        <h3 class="text-center text-h3 text-grey-700 font-heading-normal mt-2 font-heading">Para viajar hasta el
-            <br><span class="text-center text-h3 text-primary-light font-heading-bold font-heading "> 30 de abril del 2025</span>
-        </h3>
-    </div>
 
 </div>
 
-
-<div id="midYearFares" class=" container mx-auto mt-8 text-center">
-    <h2 class=" text-h2-md text-primary font-heading  ">
-        <strong>Summer's best savings are here!<br> Take advantage at <span class="text-secondary">copa.com</span>
-        </strong>
-    </h2>
-    <div>
-
-   
-        <h3 class="text-center text-h3 text-grey-700 font-heading-normal mt-4 font-heading">Enjoy these fares until
-            <br><span class=" text-center text-h3 text-primary-light font-heading-bold font-heading">August 9, 2024</span>
-        </h3>
-
-        <h3 class="text-center text-h3 text-grey-700 font-heading-normal mt-2 font-heading">For travel until
-            <br><span class="text-center text-h3 text-primary-light font-heading-bold font-heading ">April 30, 2025</span>
-        </h3>
-    </div>
-
-</div>
-
-
-
-<div id="midYearFares" class=" container mx-auto mt-8 text-center">
-    <h2 class=" text-h2-md text-primary font-heading  ">
-        <strong>Chegaram os melhores descontos de meio ano!<br> Aproveite em <span class="text-secondary">copa.com</span>
-        </strong>
-    </h2>
-    <div>
-
-   
-        <h3 class="text-center text-h3 text-grey-700 font-heading-normal mt-4 font-heading">Aproveite essas ofertas até 
-            <br><span class=" text-center text-h3 text-primary-light font-heading-bold font-heading">9 de agosto de 2024</span>
-        </h3>
-
-        <h3 class="text-center text-h3 text-grey-700 font-heading-normal mt-2 font-heading">Para viajar até
-            <br><span class="text-center text-h3 text-primary-light font-heading-bold font-heading ">30 de abril de 2025</span>
-        </h3>
-    </div>
-
-</div>
